@@ -1,0 +1,16 @@
+2024-02-21 17:15:39 [INFO] - --------------------Backup execution - 2024:02:21 17:15:39 --------------------
+2024-02-21 17:15:39 [INFO] - Starting backup process.....
+2024-02-21 17:15:39 [ERROR] - Backup failed. Check the logs for details.
+2024-02-21 17:15:39 [INFO] - --------------------Backup execution is ended -------------------
+2024-02-21 17:16:41 [INFO] - --------------------Backup execution - 2024:02:21 17:16:41 --------------------
+2024-02-21 17:16:41 [INFO] - Starting backup process.....
+2024-02-21 17:16:41 [ERROR] - Backup failed. Check the logs for details.
+2024-02-21 17:16:41 [INFO] - --------------------Backup execution is ended -------------------
+2024-02-21 17:18:03 [INFO] - --------------------Backup execution - 2024:02:21 17:18:03 --------------------
+2024-02-21 17:18:03 [INFO] - Starting backup process.....
+2024-02-21 17:18:03 [ERROR] - Backup failed. Check the logs for details.
+2024-02-21 17:18:03 [INFO] - --------------------Backup execution is ended -------------------
+2024-02-21 17:21:35 [INFO] - --------------------Backup execution - 2024:02:21 17:21:35 --------------------
+2024-02-21 17:21:35 [INFO] - Starting backup process.....
+2024-02-21 17:21:35 [INFO] - Backup completed successfully.
+2024-02-21 17:21:35 [INFO] - --------------------Backup execution is ended -------------------
