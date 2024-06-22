@@ -99,7 +99,7 @@ main(){
 
 	echo "Creating a S3 bucket......"
 
-	BUCKET_NAME="kunika-3006"
+	BUCKET_NAME="priyanshu-3006"
 	REGION_NAME="us-west-1"
 		
 	# Call the function to create the S3 bucket
